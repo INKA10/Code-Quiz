@@ -1,9 +1,8 @@
 #countdown {
-float: right;
   margin: 0;
   padding: 0;
   overflow: hidden;
-  font-size: 40px;
+  font-size: 30px;
 }
 
 .choice-container {
