@@ -2,10 +2,12 @@
 
 In this code quiz, I provided 5 questions to the user with 75 seconds as a count down. Every time the user gets a answer wrong, the display box will be highligted red - if correct it will be green. 
 
-Wrong answers will also deduct the user by 5 seconds until the timer reaches zero seconds. After 0 seconds then the user will go to the High Score page as they have ran out of time. 
+Wrong answers will also deduct the user's time by 5 seconds until the timer reaches zero seconds. After 0 seconds then the user will go to the High Score page as they have ran out of time. 
 
 
-## Minimum Requirements
+## Purpose and Requirement
+
+Purpose of this quiz creation is to ensure that the user understands the criteria of creating a page that contains variables, localstorage, minimal WEB APIs, a bit of understanding in JQuery, and the three fundamentals usage of HTML, CSS, and Javascript.
 
 1. A Functional, deployed application.
 2. The first view of the application displays a button that starts the quiz.
@@ -18,27 +20,21 @@ Wrong answers will also deduct the user by 5 seconds until the timer reaches zer
 
 
 ## Begin Quiz
-![Begin Quiz](//Users/andysuarez/Desktop/Bootcamp/Week-4/Code-Quiz/ScreenShots/BeginQuiz)
-Format: ![Alt Text](//Users/andysuarez/Desktop/Bootcamp/Week-4/Code-Quiz/ScreenShots/BeginQuiz)
+![](ScreenShots/BeginQuiz.png)
 
 
 ## Time Ticking
-
-![Begin Quiz](//Users/andysuarez/Desktop/Bootcamp/Week-4/Code-Quiz/ScreenShots/BeginQuiz)
-Format: ![Alt Text](//Users/andysuarez/Desktop/Bootcamp/Week-4/Code-Quiz/ScreenShots/Seconds)
+![](ScreenShots/Seconds.png)
 
 
-## Questions
-![Begin Quiz](//Users/andysuarez/Desktop/Bootcamp/Week-4/Code-Quiz/ScreenShots/BeginQuiz)
-Format: ![Alt Text](//Users/andysuarez/Desktop/Bootcamp/Week-4/Code-Quiz/ScreenShots/BeginQuiz)
+## Questions and Wrong Answer Prompt
+![](ScreenShots/WrongAnswer.png)
 
-## Wrong Answer
-![Begin Quiz](//Users/andysuarez/Desktop/Bootcamp/Week-4/Code-Quiz/ScreenShots/BeginQuiz)
-Format: ![Alt Text](//Users/andysuarez/Desktop/Bootcamp/Week-4/Code-Quiz/ScreenShots/WrongAnswer)
+## Enter Name
+![] (ScreenShots/EnterName.png)
 
 ## View High Scores
-![Begin Quiz](//Users/andysuarez/Desktop/Bootcamp/Week-4/Code-Quiz/ScreenShots/BeginQuiz)
-Format: ![Alt Text](//Users/andysuarez/Desktop/Bootcamp/Week-4/Code-Quiz/ScreenShots/HighScores)
+![](ScreenShots/HighScores.png)
 
 
 
