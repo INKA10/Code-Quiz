@@ -31,7 +31,7 @@ Purpose of this quiz creation is to ensure that the user understands the criteri
 ![](ScreenShots/WrongAnswer.png)
 
 ## Enter Name
-![] (ScreenShots/EnterName.png)
+![](ScreenShots/EnterName.png)
 
 ## View High Scores
 ![](ScreenShots/HighScores.png)
